@@ -1,0 +1,1 @@
+GitHub Bug Bounty subdomain takeover proof for codeql-profile-viewer.githubapp.com. Researcher GitHub account: anagnorisis2peripeteia. Date: 2026-11-24.
